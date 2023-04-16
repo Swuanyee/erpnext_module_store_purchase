@@ -31,4 +31,3 @@ To use this document in ERPNext, do the following:
 2. Place the code within this folder into it
 
 After taking these steps, the Store Purchase module will be integrated into your ERPNext system.
-# erpnext_module_store_purchase
